@@ -1,6 +1,6 @@
-# MovieBay
+# Moviebay
 
-**MovieBay** is a privacy-focused, free movie provider. No account required. No indepth tracking. No ads. Just movies.
+**Moviebay** is a privacy-focused, free movie provider. No account required. No indepth tracking. No ads. Just movies/shows.
 
 ## Mission
 To make quality cinema freely accessible while respecting user privacy.
